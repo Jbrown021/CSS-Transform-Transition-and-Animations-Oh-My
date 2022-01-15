@@ -22,6 +22,8 @@ body  {
   justify-content: space-around;
 }
 
+
+
 .hamburger div {
   background-color: rebeccapurple;
   height: 10px;
@@ -42,3 +44,4 @@ a {
 a:hover {
   color: ghostwhite;
 }
+
